@@ -26,9 +26,10 @@ Coal mine workers often work in dark and low-light conditions where visibility i
 7. When darkness is detected, the LDR activates the circuit.  
 8. The LED automatically turns ON and provides light to the worker.
 
-![][image1]
+![](IMG-20260921-WA0052.jpg)
+![](IMG-20260921-WA0051.jpg)
+![](IMG-20260921-WA0053.jpg)
 
-![][image2]![][image3]
 
 ### **Notes**
 
